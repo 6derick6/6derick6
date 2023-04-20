@@ -1,4 +1,4 @@
-## Ola! Eu sou o Dérick Trennepohl!
+## Bem Vindo! Eu sou o Dérick Trennepohl!
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=6derick6&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
